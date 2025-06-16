@@ -83,7 +83,3 @@ plstats/
 - 🔍 Search bar for teams or players
 - 🎨 Improved styling (fonts, background, theme)
 - 📈 Graphs for goals, points, etc.
-=======
-# plstats
-Live Premier League Stats viewer using Python, Tkinter and API-football
->>>>>>> 19ab0a63e213b4f7e00fb42f8327f1a50947e5ef
