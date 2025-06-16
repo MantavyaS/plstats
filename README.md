@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ⚽ Premier League Stats App
 
 A live Premier League standings viewer built with **Python**, **Tkinter**, and **API-Football**.
