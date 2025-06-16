@@ -66,7 +66,7 @@ pip install requests pillow
 ```
 plstats/
 ├── main.py          # Entry point
-├── gui.py           # Tkinter interface
+├── tkGui.py           # Tkinter interface
 ├── api.py           # API connection
 ├── README.md
 ├── requirements.txt
